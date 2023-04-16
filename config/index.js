@@ -6,16 +6,16 @@ const CONFIG = {
   // ================================高级配置 - 需要修改================================
 
   // 微信公众号的appID
-  APP_ID: "wx8cce380b885eda7b",
+  APP_ID: "wx7de462e4b6cbdef0",
 
   // 微信公众号的appsecret
-  APP_SECRET: "ed4be85c5b4c9ec20ff6a4573c1c0b9e",
+  APP_SECRET: "e417b2775bab4475a3d8b772fa607101",
 
   // 微信公众号的模板ID
-  TEMPLATE_ID: "hHFo2kk59WI7Ef8R2Ry0_IMQWbUlWIPLfJd1lIkMkuo",
+  TEMPLATE_ID: "gk-vToM7unkSIF3b9CKzAna9pyy4Eiwz9oDO3DmU4qY",
 
   // 天行API的key
-  TXApiKey: "96fd738b99e30ffa1014dad845cd0764",
+  TXApiKey: "de8026b1de4ee340484c13d05f4437c3",
 
   // 用户列表 可配置多个用户
   user: [
@@ -27,9 +27,9 @@ const CONFIG = {
       // 星座
       star: "摩羯座",
       // 生日 - 格式：08-22
-      birthday: "01-28",
+      birthday: "06-13",
       // 城市 - 格式：支持省市县区
-      city: "夏邑县",
+      city: "湖北省",
     },
   ],
 
@@ -37,7 +37,7 @@ const CONFIG = {
   tourism: "2022-12-12",
 
   // 恋爱纪念日 - 格式：2022-05-20
-  loveDay: "2022-05-20",
+  loveDay: "2023-04-08",
 
   // ================================功能配置 - 可选修改================================
 
@@ -55,11 +55,11 @@ const CONFIG = {
     // 健康小提示
     healthtip: true,
     // 毒鸡汤
-    duJiTang: true,
+    duJiTang: false,
     // 早安心语
     zaoAn: true,
     // 晚安心语
-    wanAn: true,
+    wanAn: false,
     // 彩虹屁
     caiHongPi: true,
   },
