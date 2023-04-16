@@ -49,11 +49,11 @@ const CONFIG = {
     // 天气接口 默认接口1，可选接口1、2，接口2暂时无法使用
     weatherType: 1,
     // 星座运势
-    star: true,
+    star: false,
     // 土味情话
     saylove: true,
     // 健康小提示
-    healthtip: true,
+    healthtip: false,
     // 毒鸡汤
     duJiTang: false,
     // 早安心语
